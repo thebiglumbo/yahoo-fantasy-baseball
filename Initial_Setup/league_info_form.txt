@@ -1,15 +1,22 @@
 {
-  "league_id": 123456,
+  "league_id": 21119,
   "num_teams": 12,
-  "num_weeks": 16,
+  "num_weeks": 22,
   "roster": [
-            'QB',
-            'WR1', 'WR2', 'WR3',
-            'RB1', 'RB2',
-            'TE',
-            'W/R/T',
-            'BN1', 'BN2', 'BN3', 'BN4', 'BN5', 'BN6', 'BN7', 'BN8', 'BN9', 'BN10',
-            'K',
-            'DEF'
+            'C', 
+            '1B', 
+            '2B', 
+            '3B', 
+            'SS', 
+            'IF', 
+            'OF1', 'OF2', 'OF3', 'OF4', 
+            'Util', 
+            'SP1', 'SP2', 'SP3', 
+            'RP', 
+            'P1', 
+            'P2', 
+            'P3', 
+            'BN1', 'BN2', 'BN3', 'BN4', 'BN5', 'BN6', 'BN7', 'BN8', 
+            'IL1', 'IL2', 'IL3', 'IL4', 'IL5'
             ]
 }
